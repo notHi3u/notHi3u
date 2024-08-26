@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [Bùi Hoàng Hiếu]
 
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning [React, JS Frameworks]
